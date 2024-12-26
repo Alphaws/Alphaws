@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **PrStart.hu**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular** and **Python**
 
 - 📫 How to reach me **alphaws@gmail.com**
 
